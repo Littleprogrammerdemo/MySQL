@@ -1,2 +1,2 @@
-# MySQL
-MySQL - септември 2024
+# MySQL (Java DB)
+MySQL - September 2024
